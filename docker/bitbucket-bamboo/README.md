@@ -2,7 +2,7 @@
 
 ## Necessary Configuration
 
-- Under `env/bamboo.env`: Mybe `JDBC_PASSWORD` and Chapter *Java Settings*
+- Under `env/bamboo.env`: Maybe `JDBC_PASSWORD` and Chapter *Java Settings*
 - Under `env/bitbucket.env`: Chapter *Reverse Proxy Settings*, and maybe `JDBC_PASSWORD` and Chapter *Java Settings*
 - Under `env/postgres-bamboo.env`: `POSTGRES_PASSWORD` (if changed in `env/bamboo.env`)
 - Under `env/postgres-bitbucket.env`: `POSTGRES_PASSWORD` (if changed in `env/bitbucket.env`)
